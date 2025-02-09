@@ -17,4 +17,5 @@ SOURCES USED FOR LEARING AND IDEAS WERE GOOGL, PROGRAMIZ, GEEKS FOR GEEKS, ETC A
 
 
 **OUTPUTS**: [Task2.pdf](https://github.com/user-attachments/files/18725450/Task2.pdf)
+[Task3 (random password generator).pdf](https://github.com/user-attachments/files/18725458/Task3.random.password.generator.pdf)
             
