@@ -16,4 +16,5 @@ THIRD, I PERFORMED TASK 4 OF ROCK PAPER SCISSORS GAME. THIS WAS PRETTY TIME TAKI
 SOURCES USED FOR LEARING AND IDEAS WERE GOOGL, PROGRAMIZ, GEEKS FOR GEEKS, ETC AND BOOKS.
 
 
-**OUTPUTS**: [OUTPUT IMGS.pdf](https://github.com/user-attachments/files/18724516/OUTPUT.IMGS.pdf)
+**OUTPUTS**: [Task2.pdf](https://github.com/user-attachments/files/18725450/Task2.pdf)
+            
