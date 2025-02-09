@@ -16,6 +16,5 @@ THIRD, I PERFORMED TASK 4 OF ROCK PAPER SCISSORS GAME. THIS WAS PRETTY TIME TAKI
 SOURCES USED FOR LEARING AND IDEAS WERE GOOGL, PROGRAMIZ, GEEKS FOR GEEKS, ETC AND BOOKS.
 
 
-**OUTPUTS**: [Task2.pdf](https://github.com/user-attachments/files/18725450/Task2.pdf)
-[Task3 (random password generator).pdf](https://github.com/user-attachments/files/18725458/Task3.random.password.generator.pdf)
+**OUTPUTS**: [Task2.pdf](https://github.com/user-attachments/files/18725450/Task2.pdf) , [Task3 (random password generator).pdf](https://github.com/user-attachments/files/18725458/Task3.random.password.generator.pdf) , [Task4 (rock, paper, scissors game).pdf](https://github.com/user-attachments/files/18725466/Task4.rock.paper.scissors.game.pdf) .
             
